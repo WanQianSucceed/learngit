@@ -4,3 +4,4 @@ my age is 24
 i am a boy
 I live in jiangnan university
 I am a postgraduate student
+Git tracks changes of files
